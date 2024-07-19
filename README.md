@@ -3,7 +3,7 @@
 - 🌱 I’m currently looking for an oppurtunity to become a developer
 - 📫 nandhakumararunachalam2003@gmail.com
 - 😄 Failuer is the steppling stone to success
-- ⚡ live the lyf till u go to heaven
+- ⚡ live the lyf ur own way  untill u go to heaven
 
 <!---
 Nandha-Kumar-cs/Nandha-Kumar-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
