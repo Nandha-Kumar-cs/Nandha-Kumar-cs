@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nandhakumar
 - 👀 I’m interested in Programming and develoment
-- 🌱 I’m currently looking for an oppurtunity to become a developer
 - 📫 nandhakumararunachalam2003@gmail.com
 - 😄 Failuer is the steppling stone to success
 - ⚡ live the lyf ur own way  untill u go to heaven
