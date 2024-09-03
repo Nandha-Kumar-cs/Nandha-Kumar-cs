@@ -1,10 +1,2 @@
-- 👋 Hi, I’m Nandhakumar
-- 👀 associate developer
-- 📫 nandhakumararunachalam2003@gmail.com
-- 😄 Failuer is the steppling stone to success
-- ⚡ live the lyf ur own way  untill u go to heaven
-
-<!---
-Nandha-Kumar-cs/Nandha-Kumar-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+          Hi I'm Nandhakumar
+Dedicated software developer with hands-on experience in PHP and web technologies, specializing in building and maintaining dynamic applications. Proficient in database management, front-end development, and implementing efficient solutions for complex problems. Strong collaboration and problem-solving skills, driving successful project outcomes in fast-paced environments
