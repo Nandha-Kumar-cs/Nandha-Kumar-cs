@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👨‍💻👋 Hi, I'm Nandhakumar
 
 I'm an **Associate Software Developer** passionate about building clean, scalable web applications. I specialize in backend development using **PHP frameworks** like **Laravel** and **CodeIgniter**, and I enjoy crafting RESTful APIs and dynamic frontend experiences using **JavaScript** and **jQuery**.
 
@@ -13,38 +13,25 @@ I'm an **Associate Software Developer** passionate about building clean, scalabl
 
 ---
 
-## 🧰 Tech Stack
 
-**Languages & Frameworks:**
-- PHP | Laravel | CodeIgniter
-- JavaScript | jQuery
-
-**API Development:**
-- RESTful APIs
-- JSON | AJAX
-
-**Tools & Platforms:**
-- MySQL | Apache
-- Git | GitHub
-- Postman | VS Code
+<h3 align="left"> 🧰 Tech Stack</h3>
+<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://laravel.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
+</a>
+</p>
 
 ---
 
-## 📂 Featured Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandha-Kumar-cs&show_icons=true&locale=en&layout=compact" alt="rakeshaero" /></p>
 
-### 🔗 [Project Name 1](#)
-A brief description of what the project does, the technologies used, and your role.
 
-### 🔗 [Project Name 2](#)
-Another project summary showing off your backend and frontend integration skills.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandha-Kumar-cs&" alt="rakeshaero" /></p>
 
----
+## 🔌 Plug into My Network
 
-## 📬 Let's Connect
-
-- LinkedIn: [your-linkedin-url](#)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/nandha-kumar-194913245)
+ [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Nandha-Kumar-cs)
+ [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandhakumararunachalam2003@gmail.com)
 
 ---
 
